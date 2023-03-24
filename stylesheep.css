@@ -1,0 +1,16 @@
+h1{
+    font-size: xx-large;
+    font-weight: bold;
+    background-color: rgb(0, 17, 92);
+    color:rgb(255, 0, 0);
+    text-align: center;
+};
+p{
+    font-size: medium;
+    font-family: 'Comic Sans', Times, serif;
+    text-align: center;
+};
+button{
+    background-color:rgb(112, 112, 112);
+    color:rgb(0, 0, 0);
+}
